@@ -5,7 +5,9 @@
     padding: 0;   
 
   }
-  
+  html, body {
+    background: transparent !important;
+  }
   body {
         font-family: "Alfa Slab One", serif;
         font-weight: 400;
@@ -26,7 +28,7 @@
   
   .container {
     width: 500  px;
-    background: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
     border-radius: 30px;
     display: flex;
     flex-direction: column;
