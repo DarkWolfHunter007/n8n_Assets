@@ -9,6 +9,18 @@
     background: transparent !important;
   }
 
+.cover {
+    background: transparent;
+}
+
+.responsivecontainer {
+    background: transparent;
+}
+
+.headercontainer {
+    background: transparent;
+}
+
   body {
         font-family: "Alfa Slab One", serif;
         font-weight: 400;
@@ -143,3 +155,6 @@
     letter-spacing: 0.5px;
     color: #000;
   }
+
+ same for any other outer divs you have */
+
