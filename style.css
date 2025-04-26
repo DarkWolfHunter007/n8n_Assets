@@ -5,26 +5,16 @@
     padding: 0;   
 
   }
+  
   html, body {
     background: transparent !important;
   }
-
-.cover {
-    background: transparent;
-}
-
-.responsivecontainer {
-    background: transparent;
-}
-
-.headercontainer {
-    background: transparent;
-}
 
   body {
         font-family: "Alfa Slab One", serif;
         font-weight: 400;
         font-style: normal;   
+        background: transparent !important;
   }
   
   .cover {
@@ -155,6 +145,3 @@
     letter-spacing: 0.5px;
     color: #000;
   }
-
- same for any other outer divs you have */
-
